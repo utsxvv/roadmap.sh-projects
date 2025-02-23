@@ -4,6 +4,9 @@
 
 This project is a **single-page CV (Curriculum Vitae) built using only HTML**. The webpage follows semantic HTML structure and includes essential SEO meta tags, Open Graph (OG) tags for better social media sharing, and a favicon.
 
+This Projects built following the [roadmap.sh](https://roadmap.sh/projects/single-page-cv) 
+
+
 ## 🌟 Features
 
 ✅ **Semantic HTML:** Uses proper HTML tags for structured content.  
