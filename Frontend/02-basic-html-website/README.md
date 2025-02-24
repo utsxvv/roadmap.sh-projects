@@ -4,7 +4,7 @@
 
 This project is a **Basic HTML Website** featuring multiple pages, including Homepage, Projects, Articles, and Contact. The website follows semantic HTML structure and includes essential SEO meta tags to enhance search visibility. The Contact page also features a simple form with fields for name, email, and message.
 
-This Projects built following the [https://roadmap.sh/projects/basic-html-website](https://roadmap.sh/projects/basic-html-website)
+This Projects built following the [roadmap.sh](https://roadmap.sh/projects/basic-html-website)
 
 This project was built to learn how to:
 
