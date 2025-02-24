@@ -1,0 +1,19 @@
+body {
+    font-family: "Courier New", Courier, monospace;
+    background-color: #181818;
+    color: #f7f7f7;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 60px;
+}
+
+nav ul li {
+    display: inline;
+}
+
+.logo img {
+    width: 64px;
+}
