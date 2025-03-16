@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta
+            name="description"
+            content="Contact Page for a Simple HTML Personal Portfolio Website"
+        />
+        <meta
+            name="keywords"
+            content="Frontend Project, HTML, CSS, Multi Page"
+        />
+        <meta name="author" content="SAVVY" />
+        <link rel="stylesheet" href="style.css" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=League+Spartan:wght@100..900&display=swap"
+            rel="stylesheet"
+        />
+        <title>Contact</title>
+    </head>
+    <body>
+        <header>
+            <div class="logo">
+                <img src="/assets/Logo.png" alt="Logo" />
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="projects.html">Project</a></li>
+                    <li><a href="articles.html">Article</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <main>
+            <h1>Contact</h1>
+            <form action="#" method="post">
+                <label for="name">Name:</label>
+                <input type="text" name="name" class="name" required /> <br />
+                <label for="email">Email:</label>
+                <input type="email" name="email" class="email" required />
+                <br />
+                <label for="message">Message:</label>
+                <textarea
+                    name="message"
+                    rows="4"
+                    class="message"
+                    required
+                ></textarea>
+                <br />
+
+                <button type="submit">Send Message</button>
+            </form>
+        </main>
+
+        <footer>
+            <p>&copy; all rights reserved 2025</p>
+        </footer>
+    </body>
+</html>
